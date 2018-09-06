@@ -14,3 +14,20 @@ body {
 p {
   padding: 1em;
 }
+
+a:link,
+a:active,
+a:hover,
+a:visited {
+  padding: 1em;
+  color: #ffffff;
+  background-color: #939598;
+  text-decoration: none;
+}
+
+a:hover {
+  border: 2px solid #dc3e4d;
+}
+
+.round-image {
+}
